@@ -1,1 +1,3 @@
 # HAQQ-tele-BOT
+#The bot is still in testing...
+#Soon will warn about new offers in telegram
